@@ -1,0 +1,2 @@
+97548c1d8ebc737749541c1ff76369bc2e719347d04afeeb583c367a0ab4ee9f  User.SimagicBridge.dll
+e3186c881fcb7dde34b077291c76e83368b91f3692df2838a3c024af6da505dd  SimagicBridge-0.2.2.0-English.zip
